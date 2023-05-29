@@ -1,5 +1,5 @@
 # BD_EX
-
+https://albnzhum.github.io/db23.github.io/
 [ПЕРЕЧЕНЬ ТЕОРЕТИЧЕСКИХ ВОПРОСОВ](https://docs.google.com/document/d/1haThB0ELN_CnmjU_OGfqSli6pCs8fe-2oDrMxTMoOvg/edit?usp=sharing)
 
 
