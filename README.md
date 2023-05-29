@@ -1,6 +1,6 @@
 # BD_EX
 
-ПЕРЕЧЕНЬ ТЕОРЕТИЧЕСКИХ ВОПРОСОВ
+[ПЕРЕЧЕНЬ ТЕОРЕТИЧЕСКИХ ВОПРОСОВ](https://docs.google.com/document/d/1haThB0ELN_CnmjU_OGfqSli6pCs8fe-2oDrMxTMoOvg/edit?usp=sharing)
 
 
 
